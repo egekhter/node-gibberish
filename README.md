@@ -1,0 +1,1 @@
+Node port of Python gibberish-detector by https://github.com/rrenaud/Gibberish-Detector

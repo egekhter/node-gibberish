@@ -1,0 +1,27 @@
+{
+    "name": "node-gibberish",
+    "version": "1.0.1",
+    "description": "A node port of Python gibberish detector: https://github.com/rrenaud/Gibberish-Detector",
+    "main": "index.js",
+    "scripts": {
+    },
+    "repository": {
+        "type": "git",
+        "url": "git://github.com/egekhter/node-gibberish.git"
+    },
+    "keywords": [
+        "gibberish",
+        "nonsense",
+        "words",
+        "strings",
+        "clean",
+        "english"
+    ],
+    "author": "Eugene Gekhter",
+    "license": "MIT",
+    "homepage": "https://github.com/egekhter/node-gibberish",
+    "dependencies": {
+    },
+    "devDependencies": {
+    }
+}
